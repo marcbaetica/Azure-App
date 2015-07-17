@@ -1,3 +1,3 @@
 # Azure-App
 
-http://app-deployment-mab.azurewebsites.net/
+http://app-deployment-mab.azurewebsites.net/ <-- temporarily unavailable
